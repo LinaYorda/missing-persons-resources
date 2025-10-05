@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Missing Persons Database'
+
+[params]
+  description = "A comprehensive directory of missing persons databases and organizations around the world"
+  author = "Missing Persons Database"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Countries"
+  url = "/countries/"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 3
