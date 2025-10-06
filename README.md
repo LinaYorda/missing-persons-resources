@@ -2,7 +2,6 @@
 
 A curated directory of missing persons databases, police resources, and support organizations from around the world.
 
-**Repository:** [https://github.com/LinaYorda/missing-persons-resources](https://github.com/LinaYorda/missing-persons-resources)
 
 ## About This Project
 
@@ -108,6 +107,4 @@ This project is maintained for humanitarian purposes. The content and structure 
 ## Acknowledgments
 
 This resource directory exists to help bridge the gap between those searching for missing persons and the organizations that can assist them. Special thanks to all the law enforcement agencies, support organizations, and families who work tirelessly on missing persons cases worldwide.
-
----
 
