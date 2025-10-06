@@ -1,6 +1,8 @@
 # Missing Persons Resources
 
-A comprehensive, curated directory of missing persons databases, police resources, and support organizations from around the world.
+A curated directory of missing persons databases, police resources, and support organizations from around the world.
+
+**Repository:** [https://github.com/LinaYorda/missing-persons-resources](https://github.com/LinaYorda/missing-persons-resources)
 
 ## About This Project
 
@@ -39,7 +41,7 @@ Currently includes resources for:
 
 ## Important Safety Notice
 
-**If you believe you are a victim of foul play or want to report a missing person, contact your local authorities immediately.** Do not delay in seeking help from law enforcement or emergency services.
+If you believe you are a victim of foul play or want to report a missing person, contact your local authorities immediately.Do not delay in seeking help from law enforcement or emergency services.
 
 ## Contributing
 
@@ -70,13 +72,11 @@ This site is built with:
 
 ### Local Development
 
-```bash
-# Clone the repository
-git clone [repository-url]
+You need to have Hugo installed on your machine. 
 
-# Install Hugo (if not already installed)
-# On macOS with Homebrew:
-brew install hugo
+```bash
+# Clone the repo
+git clone [repository-url]
 
 # Start development server
 hugo server
@@ -111,4 +111,3 @@ This resource directory exists to help bridge the gap between those searching fo
 
 ---
 
-*Created and maintained by Tsvetelina*
