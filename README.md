@@ -75,7 +75,7 @@ You need to have Hugo installed on your machine.
 
 ```bash
 # Clone the repo
-git clone [repository-url]
+git clone 
 
 # Start development server
 hugo server
