@@ -1,2 +1,6 @@
 public/
 resources/
+.hugo_build.lock
+netlify.toml
+hugo.toml
+country-template.md
