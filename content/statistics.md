@@ -11,7 +11,7 @@ The map provides a visual overview of my database's geographical coverage, helpi
 ## Database Overview
 
 - **Total Countries with Resources:** 17
-- **Total Resources Listed:** 62 websites and databases
+- **Total Resources Listed:** 58 websites and databases
 - **Geographical Coverage:** Europe, North America, Oceania, Asia, and Africa
 
 ### Featured Countries
@@ -44,7 +44,7 @@ var countriesWithResources = [
 
 // Resource counts for tooltips - map from GeoJSON names to our display names
 var resourceCounts = {
-    "Australia": 8,
+    "Australia": 5,
     "Austria": 2,
     "Canada": 10,
     "France": 3,

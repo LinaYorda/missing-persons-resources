@@ -2,7 +2,7 @@
 title: "United States"
 resources:
   - name: "National Missing and Unidentified Persons System (NamUs)"
-    url: "https://namus.nij.ojp.gov/"
+    url: "https://www.namus.gov/MissingPersons/Search"
     description: "National system for missing, unidentified, and unclaimed persons"
 
   - name: "The Charley Project"
@@ -38,7 +38,7 @@ resources:
 
 # Missing Persons Resources in the United States
 
-- **[National Missing and Unidentified Persons System (NamUs)](https://namus.nij.ojp.gov/)**  
+- **[National Missing and Unidentified Persons System (NamUs)](https://www.namus.gov/MissingPersons/Search)**  
   National system for missing, unidentified, and unclaimed persons
 
 - **[The Charley Project](https://charleyproject.org/)**  

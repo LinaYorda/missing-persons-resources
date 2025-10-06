@@ -4,7 +4,7 @@ sections:
   - title: "United States"
     links:
       - name: "National Missing and Unidentified Persons System (NamUs)"
-        url: "https://namus.nij.ojp.gov/"
+        url: "https://www.namus.gov/MissingPersons/Search"
         description: "National system for missing, unidentified, and unclaimed persons"
       - name: "The Charley Project"
         url: "https://charleyproject.org/"
@@ -89,15 +89,6 @@ sections:
         description: "Austrian regional news site with missing persons search and information"
   - title: "Australia"
     links:
-      - name: "National Missing Persons Coordination Centre"
-        url: "https://www.missingpersons.gov.au"
-        description: "Australian government missing persons service"
-      - name: "Australian Federal Police Missing Persons"
-        url: "https://www.afp.gov.au/what-we-do/missing-persons"
-        description: "AFP missing persons investigations"
-      - name: "Child Wise"
-        url: "https://www.childwise.org.au"
-        description: "Preventing child abuse and neglect"
       - name: "Missing Persons Search"
         url: "https://www.missingpersons.gov.au/search-missing-persons"
         description: "Australian missing persons search database"
@@ -241,9 +232,6 @@ sections:
       - name: "ICMP Missing Persons Database"
         url: "https://oic.icmp.int/index.php?w=reg_lista_pub_ter_in&x=search&l=en"
         description: "International Commission on Missing Persons database for conflict, disaster, and human rights cases"
-      - name: "Amnesty International"
-        url: "https://www.amnesty.org/en/what-we-do/disappearances"
-        description: "Human rights organization on enforced disappearances"
 ---
 
 Welcome to the Missing Persons Resources, a curated collection of missing persons resources and organizations from around the world that I've gathered through research. Browse by country below to find official databases, police resources, and support organizations that can help locate missing individuals.

@@ -1,15 +1,6 @@
 ---
 title: "Australia"
 resources:
-  - name: "National Missing Persons Coordination Centre"
-    url: "https://www.missingpersons.gov.au"
-    description: "Australian government missing persons service"
-  - name: "Australian Federal Police Missing Persons"
-    url: "https://www.afp.gov.au/what-we-do/missing-persons"
-    description: "AFP missing persons investigations"
-  - name: "Child Wise"
-    url: "https://www.childwise.org.au"
-    description: "Preventing child abuse and neglect"
   - name: "Missing Persons Search"
     url: "https://www.missingpersons.gov.au/search-missing-persons"
     description: "Australian missing persons search database"
@@ -28,15 +19,6 @@ resources:
 ---
 
 # Missing Persons Resources in Australia
-
-- **[National Missing Persons Coordination Centre](https://www.missingpersons.gov.au)**  
-  Australian government missing persons service
-
-- **[Australian Federal Police Missing Persons](https://www.afp.gov.au/what-we-do/missing-persons)**  
-  AFP missing persons investigations
-
-- **[Child Wise](https://www.childwise.org.au)**  
-  Preventing child abuse and neglect
 
 - **[Missing Persons Search](https://www.missingpersons.gov.au/search-missing-persons)**  
   Australian missing persons search database

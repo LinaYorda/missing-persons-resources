@@ -18,7 +18,7 @@ This website serves as a centralized portal for missing persons resources and in
 ## Site Statistics
 
 - **17 Countries** covered with verified resources
-- **62+ Resources** including databases, hotlines, and support organizations
+- **58+ Resources** including databases, hotlines, and support organizations
 - **Regular Updates** - Links are verified and resources are maintained current
 
 ## How to Use This Site
