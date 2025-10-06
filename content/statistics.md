@@ -10,12 +10,12 @@ The map provides a visual overview of my database's geographical coverage, helpi
 
 ## Database Overview
 
-- **Total Countries with Resources:** 17
-- **Total Resources Listed:** 58 websites and databases
+- **Total Countries with Resources:** 19
+- **Total Resources Listed:** 82 websites and databases
 - **Geographical Coverage:** Europe, North America, Oceania, Asia, and Africa
 
 ### Featured Countries
-My database includes comprehensive coverage for major countries like Germany (10 resources), United States (10 resources), and Canada (10 resources), as well as emerging coverage in countries across multiple continents.
+My database includes comprehensive coverage for major countries like Germany (17 resources), United States (14 resources), and Canada (10 resources), as well as emerging coverage in countries across multiple continents.
 
 *Click on any country to see available resources and get more information.*
 
@@ -36,19 +36,20 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // Countries with resources (highlight in green) - using GeoJSON country names
 var countriesWithResources = [
-    "Australia", "Austria", "Canada", "France", "Germany", 
+    "Australia", "Austria", "Brazil", "Canada", "France", "Germany", 
     "China", "Ireland", "Italy", "Netherlands", "New Zealand", "Poland", 
-    "Romania", "South Africa", "Spain", "Switzerland", 
+    "Portugal", "Romania", "South Africa", "Spain", "Switzerland", 
     "United Kingdom", "United States of America"
 ];
 
 // Resource counts for tooltips - map from GeoJSON names to our display names
 var resourceCounts = {
-    "Australia": 5,
+    "Australia": 8,
     "Austria": 2,
+    "Brazil": 8,
     "Canada": 10,
     "France": 3,
-    "Germany": 10,
+    "Germany": 17,
     "China": 1, // Hong Kong
     "Ireland": 1,
     "Italy": 2,
@@ -60,13 +61,14 @@ var resourceCounts = {
     "Spain": 2,
     "Switzerland": 7,
     "United Kingdom": 4,
-    "United States of America": 10
+    "United States of America": 14
 };
 
 // Display names for labels (our preferred names)
 var displayNames = {
     "Australia": "Australia",
     "Austria": "Austria", 
+    "Brazil": "Brazil",
     "Canada": "Canada",
     "France": "France",
     "Germany": "Germany",

@@ -22,6 +22,13 @@
       <description>&lt;h1 id=&#34;missing-persons-resources-in-austria&#34;&gt;Missing Persons Resources in Austria&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.oesterreichfindeteuch.at/vermisste-personen/&#34;&gt;Österreich findet euch Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Austrian missing persons database and information platform&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.meinbezirk.at/tag/vermisstensuche&#34;&gt;Meinbezirk Missing Persons Search&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Austrian regional news site with missing persons search and information&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Brazil</title>
+      <link>http://localhost:1313/countries/brazil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/countries/brazil/</guid>
+      <description>&lt;h1 id=&#34;missing-persons-resources-in-brazil&#34;&gt;Missing Persons Resources in Brazil&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://cnpd.mj.gov.br/painel-publico&#34;&gt;Cadastro Nacional de Pessoas Desaparecidas&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;National Registry of Missing Persons maintained by the Ministry of Justice and Public Security of Brazil.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://desaparecidosdobrasil.org/pesquisa_cadastrodesaparecidos.php&#34;&gt;Desaparecidos do Brasil&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Search database for missing persons in Brazil, maintained by a private organization.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.desaparecidos.pr.gov.br/desaparecidos/&#34;&gt;Pessoas Desaparecidas no Estado do Paraná&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Missing persons database for the state of Paraná, maintained by the Paraná State Civil Police.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.pc.rs.gov.br/desaparecidos&#34;&gt;Desaparecidos - Polícia Civil RS&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Missing persons database for the state of Rio Grande do Sul, maintained by the Rio Grande do Sul State Civil Police.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Canada</title>
       <link>http://localhost:1313/countries/canada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -33,7 +40,7 @@
       <link>http://localhost:1313/countries/france/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/countries/france/</guid>
-      <description>&lt;h1 id=&#34;missing-persons-resources-in-france&#34;&gt;Missing Persons Resources in France&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.116000enfantsdisparus.fr/avis-de-recherche/&#34;&gt;116000 Enfants Disparus&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;French missing children hotline search notices&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.arpd.fr/fr/recherche-disparition&#34;&gt;Association pour la Recherche de Personnes Disparues&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;French association for missing persons search&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;missing-persons-resources-in-france&#34;&gt;Missing Persons Resources in France&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.116000enfantsdisparus.fr/avis-de-recherche/&#34;&gt;116000 Enfants Disparus&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;French missing children hotline search notices&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://personnedisparue.com/consulter-avis/&#34;&gt;Personne Disparue&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;French missing persons search database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.arpd.fr/fr/recherche-disparition&#34;&gt;Association pour la Recherche de Personnes Disparues&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;French association for missing persons search&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Germany</title>
@@ -83,6 +90,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/countries/poland/</guid>
       <description>&lt;h1 id=&#34;missing-persons-resources-in-poland&#34;&gt;Missing Persons Resources in Poland&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://zaginieni.pl/home-english/&#34;&gt;ITAKA Foundation - Missing Persons Database&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Polish foundation helping find missing people and unidentified persons&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Portugal</title>
+      <link>http://localhost:1313/countries/portugal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/countries/portugal/</guid>
+      <description>&lt;h1 id=&#34;missing-persons-resources-in-portugal&#34;&gt;Missing Persons Resources in Portugal&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.policiajudiciaria.pt/pessoas-desaparecidas/&#34;&gt;Policia Judiciaria&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Official website of the Portuguese Judicial Police for missing persons reports and investigations.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Romania</title>
