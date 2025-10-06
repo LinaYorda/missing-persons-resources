@@ -1,4 +1,4 @@
-<img src="static/favicon.svg" alt="Missing Persons Resources" width="64" height="64">
+<img src="static/favicon.svg" alt="Missing Persons Resources" width="32" height="32">
 
 # Missing Persons Resources
 
