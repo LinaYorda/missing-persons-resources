@@ -4,11 +4,8 @@ title: "Italy"
 
 # Missing Persons Resources in Italy
 
-- **[Carabinieri Missing Persons](https://www.carabinieri.it/)**  
-  Italian Carabinieri missing persons investigations
+- **[Italian Prefectures Missing Persons Database](https://www1.prefettura.it/portale/contenuti/12996524.htm)**  
+  Italian prefectures missing persons database (historical site - may not be updated)
 
-- **[Polizia di Stato Missing Persons](https://www.poliziadistato.it/)**  
-  Italian State Police missing persons database
-
-- **[Telefono Azzurro](https://www.azzurro.it/)**  
-  Italian child protection organization
+- **[Penelope Italia Missing Persons Archive](https://www.penelopeitalia.org/archivio-scomparsi/)**  
+  Penelope Italia missing persons archive and information

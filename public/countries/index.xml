@@ -1,122 +1,129 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Countries on Missing Persons Database</title>
-    <link>http://localhost:60767/countries/</link>
-    <description>Recent content in Countries on Missing Persons Database</description>
+    <title>Countries on Missing Persons Resources</title>
+    <link>http://localhost:1313/countries/</link>
+    <description>Recent content in Countries on Missing Persons Resources</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:60767/countries/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/countries/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australia</title>
-      <link>http://localhost:60767/countries/australia/</link>
+      <link>http://localhost:1313/countries/australia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/australia/</guid>
+      <guid>http://localhost:1313/countries/australia/</guid>
       <description>&lt;h1 id=&#34;missing-persons-resources-in-australia&#34;&gt;Missing Persons Resources in Australia&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.missingpersons.gov.au&#34;&gt;National Missing Persons Coordination Centre&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Australian government missing persons service&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.afp.gov.au/what-we-do/missing-persons&#34;&gt;Australian Federal Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;AFP missing persons investigations&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.childwise.org.au&#34;&gt;Child Wise&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Preventing child abuse and neglect&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.missingpersons.gov.au/search-missing-persons&#34;&gt;Missing Persons Search&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Australian missing persons search database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.police.vic.gov.au/missing-persons-list&#34;&gt;Victoria Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Victoria Police missing persons list&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://apps.police.nsw.gov.au/missingpersonsenquiry/search.do?start=10&#34;&gt;NSW Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;New South Wales Police missing persons search&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://australianmissingpersonsregister.com/&#34;&gt;Australian Missing Persons Register&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Comprehensive Australian missing persons register&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://mypolice.qld.gov.au/missing-persons/&#34;&gt;Queensland Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Queensland Police missing persons information&lt;/p&gt;</description>
     </item>
     <item>
       <title>Austria</title>
-      <link>http://localhost:60767/countries/austria/</link>
+      <link>http://localhost:1313/countries/austria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/austria/</guid>
-      <description>&lt;h1 id=&#34;missing-persons-resources-in-austria&#34;&gt;Missing Persons Resources in Austria&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.oesterreichfindeteuch.at/vermisste-personen/&#34;&gt;Österreich findet euch Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Austrian missing persons database and information platform&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.bundeskriminalamt.at/fahndung/start.aspx?fndgb=ABG_UEBER_20&amp;amp;fndgm=1&amp;amp;fndgsw=1&amp;amp;fndgo=0&#34;&gt;Austrian Federal Criminal Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Austrian Federal Criminal Police Office missing persons database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.meinbezirk.at/tag/vermisstensuche&#34;&gt;Meinbezirk Missing Persons Search&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Austrian regional news site with missing persons search and information&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/countries/austria/</guid>
+      <description>&lt;h1 id=&#34;missing-persons-resources-in-austria&#34;&gt;Missing Persons Resources in Austria&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.oesterreichfindeteuch.at/vermisste-personen/&#34;&gt;Österreich findet euch Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Austrian missing persons database and information platform&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.meinbezirk.at/tag/vermisstensuche&#34;&gt;Meinbezirk Missing Persons Search&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Austrian regional news site with missing persons search and information&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Canada</title>
-      <link>http://localhost:60767/countries/canada/</link>
+      <link>http://localhost:1313/countries/canada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/canada/</guid>
+      <guid>http://localhost:1313/countries/canada/</guid>
       <description>&lt;h1 id=&#34;missing-persons-resources-in-canada&#34;&gt;Missing Persons Resources in Canada&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://canadasmissing.ca/index-eng.htm&#34;&gt;Canada&amp;rsquo;s Missing&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Government of Canada missing persons website&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://missingpeople.ca/cold-cases/&#34;&gt;Missing People Canada Cold Cases&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Canadian missing persons cold cases database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://missingchild.ca/&#34;&gt;Missing Child Canada&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Canadian missing children resource center&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://missing.sacp.ca/&#34;&gt;SACP Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Saskatchewan Association of Chiefs of Police missing persons database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.aboriginalalert.ca/?utm_source=chatgpt.com&#34;&gt;Aboriginal Alert&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Alert system for missing Indigenous persons in Canada&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.missingkids.ca/en/missing-children-database/&#34;&gt;MissingKids.ca Database&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Canadian Centre for Child Protection missing children database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.canadaunsolved.com/&#34;&gt;Canada Unsolved&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Canadian unsolved cases and missing persons database&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Germany</title>
-      <link>http://localhost:60767/countries/germany/</link>
+      <title>France</title>
+      <link>http://localhost:1313/countries/france/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/germany/</guid>
+      <guid>http://localhost:1313/countries/france/</guid>
+      <description>&lt;h1 id=&#34;missing-persons-resources-in-france&#34;&gt;Missing Persons Resources in France&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.116000enfantsdisparus.fr/avis-de-recherche/&#34;&gt;116000 Enfants Disparus&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;French missing children hotline search notices&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.arpd.fr/fr/recherche-disparition&#34;&gt;Association pour la Recherche de Personnes Disparues&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;French association for missing persons search&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Germany</title>
+      <link>http://localhost:1313/countries/germany/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/countries/germany/</guid>
       <description>&lt;h1 id=&#34;missing-persons-resources-in-germany&#34;&gt;Missing Persons Resources in Germany&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.polizei.hessen.de/fahndungen/personen/vermisste-personen/&#34;&gt;Hesse State Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Hesse State Police missing persons database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://polizei.nrw/fahndung?type_1%5B0%5D=missing_persons&amp;amp;sort_order=DESC&#34;&gt;North Rhine-Westphalia Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;North Rhine-Westphalia Police missing persons search&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://fahndung.polizei-bw.de/&#34;&gt;Baden-Württemberg Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Baden-Württemberg Police missing persons database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.polizei.bayern.de/fahndung/personen/vermisste/index.html&#34;&gt;Bavaria Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Bavaria Police missing persons database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.berlin.de/polizei/polizeimeldungen/vermisste/&#34;&gt;Berlin Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Berlin Police missing persons reports&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://polizei.brandenburg.de/suche/typ/Fahndung/kategorie/Vermisste%20Personen&#34;&gt;Brandenburg Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Brandenburg Police missing persons search&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.polizei.bremen.de/detail.php?search%5Barea%5D=18&amp;amp;search%5Bsend%5D=true&amp;amp;search%5Bvt%5D=vermisst&amp;amp;template=20_search_d&#34;&gt;Bremen Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Bremen Police missing persons search&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hong Kong</title>
-      <link>http://localhost:60767/countries/hong-kong/</link>
+      <link>http://localhost:1313/countries/hong-kong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/hong-kong/</guid>
+      <guid>http://localhost:1313/countries/hong-kong/</guid>
       <description>&lt;h1 id=&#34;missing-persons-resources-in-hong-kong&#34;&gt;Missing Persons Resources in Hong Kong&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.police.gov.hk/ppp_en/06_appeals_public/missing/&#34;&gt;Hong Kong Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Hong Kong Police Force missing persons appeals and information&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Ireland</title>
-      <link>http://localhost:60767/countries/ireland/</link>
+      <link>http://localhost:1313/countries/ireland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/ireland/</guid>
+      <guid>http://localhost:1313/countries/ireland/</guid>
       <description>&lt;h1 id=&#34;missing-persons-resources-in-ireland&#34;&gt;Missing Persons Resources in Ireland&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.garda.ie/en/missing-persons/&#34;&gt;Garda Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Garda Síochána missing persons information and appeals&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Italy</title>
-      <link>http://localhost:60767/countries/italy/</link>
+      <link>http://localhost:1313/countries/italy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/italy/</guid>
-      <description>&lt;h1 id=&#34;missing-persons-resources-in-italy&#34;&gt;Missing Persons Resources in Italy&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.carabinieri.it/&#34;&gt;Carabinieri Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Italian Carabinieri missing persons investigations&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.poliziadistato.it/&#34;&gt;Polizia di Stato Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Italian State Police missing persons database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.azzurro.it/&#34;&gt;Telefono Azzurro&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Italian child protection organization&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/countries/italy/</guid>
+      <description>&lt;h1 id=&#34;missing-persons-resources-in-italy&#34;&gt;Missing Persons Resources in Italy&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www1.prefettura.it/portale/contenuti/12996524.htm&#34;&gt;Italian Prefectures Missing Persons Database&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Italian prefectures missing persons database (historical site - may not be updated)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.penelopeitalia.org/archivio-scomparsi/&#34;&gt;Penelope Italia Missing Persons Archive&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Penelope Italia missing persons archive and information&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Netherlands</title>
-      <link>http://localhost:60767/countries/netherlands/</link>
+      <link>http://localhost:1313/countries/netherlands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/netherlands/</guid>
-      <description>&lt;h1 id=&#34;missing-persons-resources-in-the-netherlands&#34;&gt;Missing Persons Resources in the Netherlands&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.politie.nl/en/missing&#34;&gt;Dutch Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Official Dutch police missing persons database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.vermiste-personen.nl/&#34;&gt;Stichting Vermiste Personen&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Foundation for missing persons in the Netherlands&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.amberalert.nl/&#34;&gt;AMBER Alert Nederland&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Dutch child abduction alert system&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/countries/netherlands/</guid>
+      <description>&lt;h1 id=&#34;missing-persons-resources-in-the-netherlands&#34;&gt;Missing Persons Resources in the Netherlands&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.politie.nl/en/missing&#34;&gt;Dutch Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Official Dutch police missing persons database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://vermist.helpdepolitie.nl/&#34;&gt;Vermist Help de Politie&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Dutch police missing persons assistance platform&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>New Zealand</title>
-      <link>http://localhost:60767/countries/new-zealand/</link>
+      <link>http://localhost:1313/countries/new-zealand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/new-zealand/</guid>
+      <guid>http://localhost:1313/countries/new-zealand/</guid>
       <description>&lt;h1 id=&#34;missing-persons-resources-in-new-zealand&#34;&gt;Missing Persons Resources in New Zealand&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.police.govt.nz/missing-persons/missing-persons-list&#34;&gt;New Zealand Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;New Zealand Police missing persons list and information&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Poland</title>
-      <link>http://localhost:60767/countries/poland/</link>
+      <link>http://localhost:1313/countries/poland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/poland/</guid>
+      <guid>http://localhost:1313/countries/poland/</guid>
       <description>&lt;h1 id=&#34;missing-persons-resources-in-poland&#34;&gt;Missing Persons Resources in Poland&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://zaginieni.pl/home-english/&#34;&gt;ITAKA Foundation - Missing Persons Database&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Polish foundation helping find missing people and unidentified persons&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Romania</title>
-      <link>http://localhost:60767/countries/romania/</link>
+      <link>http://localhost:1313/countries/romania/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/romania/</guid>
-      <description>&lt;h1 id=&#34;missing-persons-resources-in-romania&#34;&gt;Missing Persons Resources in Romania&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://politiaromana.ro/en/missing-persons&#34;&gt;Romanian Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Romanian Police missing persons database and information&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.presseportal.de/blaulicht/st/Vermisste&#34;&gt;Presseportal Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;German press portal with missing persons news and information&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://polizei.news/polizeinews/ereignisse/vermisst/aktuell-vermisst/&#34;&gt;Polizei.news Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;German police news website with current missing persons reports&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/countries/romania/</guid>
+      <description>&lt;h1 id=&#34;missing-persons-resources-in-romania&#34;&gt;Missing Persons Resources in Romania&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://politiaromana.ro/en/missing-persons&#34;&gt;Romanian Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Romanian Police missing persons database and information&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>South Africa</title>
-      <link>http://localhost:60767/countries/south-africa/</link>
+      <link>http://localhost:1313/countries/south-africa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/south-africa/</guid>
+      <guid>http://localhost:1313/countries/south-africa/</guid>
       <description>&lt;h1 id=&#34;missing-persons-resources-in-south-africa&#34;&gt;Missing Persons Resources in South Africa&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.saps.gov.za/crimestop/missing/index.php&#34;&gt;SAPS Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;South African Police Service missing persons database and crime stop information&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Spain</title>
-      <link>http://localhost:60767/countries/spain/</link>
+      <link>http://localhost:1313/countries/spain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/spain/</guid>
-      <description>&lt;h1 id=&#34;missing-persons-resources-in-spain&#34;&gt;Missing Persons Resources in Spain&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.guardiacivil.es/es/servicios/personas-desaparecidas.html&#34;&gt;Guardia Civil Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Spanish Civil Guard missing persons database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.policia.es/&#34;&gt;Policía Nacional Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;National Police missing persons investigations&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://sosdesaparecidos.es/desaparecidos/&#34;&gt;SOS Desaparecidos&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Spanish association for missing persons and unidentified remains&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/countries/spain/</guid>
+      <description>&lt;h1 id=&#34;missing-persons-resources-in-spain&#34;&gt;Missing Persons Resources in Spain&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://sosdesaparecidos.es/desaparecidos/&#34;&gt;SOS Desaparecidos&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Spanish association for missing persons and unidentified remains&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://cndes-web.ses.mir.es/publico/Desaparecidos/&#34;&gt;Centro Nacional de Desaparecidos&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Spanish National Center for Missing Persons&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Switzerland</title>
-      <link>http://localhost:60767/countries/switzerland/</link>
+      <link>http://localhost:1313/countries/switzerland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/switzerland/</guid>
+      <guid>http://localhost:1313/countries/switzerland/</guid>
       <description>&lt;h1 id=&#34;missing-persons-resources-in-switzerland&#34;&gt;Missing Persons Resources in Switzerland&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.polizei-schweiz.ch/category/vermisst/&#34;&gt;Swiss Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Swiss police missing persons category and information&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://polizeiticker.ch/vermisst&#34;&gt;Polizeiticker Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Swiss police news ticker with missing persons reports and information&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.police.be.ch/de/start/themen/news/fahndung.html&#34;&gt;Bern Canton Police Wanted Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Bern canton police wanted and missing persons database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.polizei.be/untersuchungen/de/untersuchungen/vermisste-personen&#34;&gt;Bern Canton Police Missing Persons Investigations&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Bern canton police missing persons investigations and cases&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.polizeiwallis.ch/category/vermisstmeldungen/&#34;&gt;Valais Canton Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Valais canton police missing persons reports and information&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://116000.missingchildren.ch/de/vermisstenanzeige&#34;&gt;116000 Missing Children Hotline&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Swiss missing children hotline missing persons reporting and information&lt;/p&gt;</description>
     </item>
     <item>
       <title>United Kingdom</title>
-      <link>http://localhost:60767/countries/united-kingdom/</link>
+      <link>http://localhost:1313/countries/united-kingdom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/united-kingdom/</guid>
-      <description>&lt;h1 id=&#34;missing-persons-resources-in-the-united-kingdom&#34;&gt;Missing Persons Resources in the United Kingdom&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.missingpeople.org.uk/appeal-search&#34;&gt;Missing People&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;UK charity helping find missing people&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.nationalcrimeagency.gov.uk/case-search?view=search&amp;amp;layout=ncacampaigntemplate:mpucasesearch&amp;amp;category_id=46&amp;amp;advanced_search_url=http://localhost:60767/case-search/case-advanced-search&amp;amp;menuarea=mpucasesearch&amp;amp;search_limit=12&#34;&gt;National Crime Agency Missing Persons Search&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;National Crime Agency missing persons case search database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.scotland.police.uk/what-s-happening/missing-persons/&#34;&gt;Police Scotland Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Police Scotland missing persons information and reports&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.psni.police.uk/news/appeals-information/long-term-missing-persons&#34;&gt;PSNI Long-term Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Police Service of Northern Ireland long-term missing persons appeals&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/countries/united-kingdom/</guid>
+      <description>&lt;h1 id=&#34;missing-persons-resources-in-the-united-kingdom&#34;&gt;Missing Persons Resources in the United Kingdom&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.missingpeople.org.uk/appeal-search&#34;&gt;Missing People&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;UK charity helping find missing people&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.nationalcrimeagency.gov.uk/case-search?view=search&amp;amp;layout=ncacampaigntemplate:mpucasesearch&amp;amp;category_id=46&amp;amp;advanced_search_url=http://localhost:1313/case-search/case-advanced-search&amp;amp;menuarea=mpucasesearch&amp;amp;search_limit=12&#34;&gt;National Crime Agency Missing Persons Search&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;National Crime Agency missing persons case search database&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.scotland.police.uk/what-s-happening/missing-persons/&#34;&gt;Police Scotland Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Police Scotland missing persons information and reports&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.psni.police.uk/news/appeals-information/long-term-missing-persons&#34;&gt;PSNI Long-term Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Police Service of Northern Ireland long-term missing persons appeals&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>United States</title>
-      <link>http://localhost:60767/countries/united-states/</link>
+      <link>http://localhost:1313/countries/united-states/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60767/countries/united-states/</guid>
+      <guid>http://localhost:1313/countries/united-states/</guid>
       <description>&lt;h1 id=&#34;missing-persons-resources-in-the-united-states&#34;&gt;Missing Persons Resources in the United States&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://namus.nij.ojp.gov/&#34;&gt;National Missing and Unidentified Persons System (NamUs)&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;National system for missing, unidentified, and unclaimed persons&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://charleyproject.org/&#34;&gt;The Charley Project&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Online registry of missing persons cases and unidentified remains&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.doenetwork.org/&#34;&gt;The Doe Network&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Volunteer organization maintaining missing persons and unidentified remains databases&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.fbi.gov/wanted/kidnap&#34;&gt;FBI Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;FBI&amp;rsquo;s wanted persons and missing children&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.missingkids.org/gethelpnow/search&#34;&gt;National Center for Missing &amp;amp; Exploited Children (NCMEC)&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Resources for missing and exploited children with search functionality&lt;/p&gt;</description>
     </item>
   </channel>

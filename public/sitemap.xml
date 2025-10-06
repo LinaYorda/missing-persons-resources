@@ -14,7 +14,11 @@
   </url><url>
     <loc>http://localhost:1313/countries/</loc>
   </url><url>
+    <loc>http://localhost:1313/countries/france/</loc>
+  </url><url>
     <loc>http://localhost:1313/countries/germany/</loc>
+  </url><url>
+    <loc>http://localhost:1313/statistics/</loc>
   </url><url>
     <loc>http://localhost:1313/countries/hong-kong/</loc>
   </url><url>
@@ -35,6 +39,8 @@
     <loc>http://localhost:1313/countries/south-africa/</loc>
   </url><url>
     <loc>http://localhost:1313/countries/spain/</loc>
+  </url><url>
+    <loc>http://localhost:1313/countries/switzerland/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>

@@ -31,21 +31,6 @@ resources:
   - name: "Rhineland-Palatinate Police Missing Persons"
     url: "https://www.polizei.rlp.de/fahndung/personenfahndungen"
     description: "Rhineland-Palatinate Police missing persons"
-  - name: "Saxony Police Missing Persons"
-    url: "https://www.polizei.sachsen.de/de/3582.htm"
-    description: "Saxony Police missing persons"
-  - name: "Schleswig-Holstein Police Missing Persons"
-    url: "https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/POLIZEI/Fahndungen/startseite_fahndung_vermisstePersonen"
-    description: "Schleswig-Holstein Police missing persons"
-  - name: "Bild.de Missing Persons"
-    url: "https://www.bild.de/news/aktuelles/vermisste-personen/thema-vermisste-personen-alle-infos-80909876.bild.html"
-    description: "Bild newspaper missing persons information and news"
-  - name: "Tag24 Missing Persons"
-    url: "https://www.tag24.de/justiz/vermisste-personen"
-    description: "Tag24 news missing persons information and reports"
-  - name: "Interpol Germany"
-    url: "https://www.interpol.int/en/How-we-work/Notices/Red-Notices"
-    description: "International notices for missing persons"
 ---
 
 # Missing Persons Resources in Germany
@@ -79,18 +64,3 @@ resources:
 
 - **[Rhineland-Palatinate Police Missing Persons](https://www.polizei.rlp.de/fahndung/personenfahndungen)**  
   Rhineland-Palatinate Police missing persons
-
-- **[Saxony Police Missing Persons](https://www.polizei.sachsen.de/de/3582.htm)**  
-  Saxony Police missing persons
-
-- **[Schleswig-Holstein Police Missing Persons](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/POLIZEI/Fahndungen/startseite_fahndung_vermisstePersonen)**  
-  Schleswig-Holstein Police missing persons
-
-- **[Bild.de Missing Persons](https://www.bild.de/news/aktuelles/vermisste-personen/thema-vermisste-personen-alle-infos-80909876.bild.html)**  
-  Bild newspaper missing persons information and news
-
-- **[Tag24 Missing Persons](https://www.tag24.de/justiz/vermisste-personen)**  
-  Tag24 news missing persons information and reports
-
-- **[Interpol Germany](https://www.interpol.int/en/How-we-work/Notices/Red-Notices)**  
-  International notices for missing persons

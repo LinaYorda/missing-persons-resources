@@ -34,18 +34,6 @@ resources:
   - name: "New York State Police Missing Persons"
     url: "https://troopers.ny.gov/wanted-and-missing"
     description: "New York missing persons information"
-  - name: "Washington State Patrol Missing Persons"
-    url: "https://www.wsp.wa.gov/missing-persons/"
-    description: "Washington missing persons information"
-  - name: "Black and Missing Foundation"
-    url: "https://www.blackandmissinginc.com/search/"
-    description: "Foundation focused on missing persons of color and underrepresented communities"
-  - name: "New Jersey State Police Missing Persons"
-    url: "https://www-lps.state.nj.us/NJSP_Amber/MissingPersonList.jsp"
-    description: "New Jersey State Police missing persons list and search database"
-  - name: "Missing NPF"
-    url: "https://missingnpf.com/"
-    description: "America's first comprehensive national park missing persons database"
 ---
 
 # Missing Persons Resources in the United States
@@ -79,15 +67,3 @@ resources:
 
 - **[New York State Police Missing Persons](https://troopers.ny.gov/wanted-and-missing)**  
   New York missing persons information
-
-- **[Washington State Patrol Missing Persons](https://www.wsp.wa.gov/missing-persons/)**  
-  Washington missing persons information
-
-- **[Black and Missing Foundation](https://www.blackandmissinginc.com/search/)**  
-  Foundation focused on missing persons of color and underrepresented communities
-
-- **[New Jersey State Police Missing Persons](https://www-lps.state.nj.us/NJSP_Amber/MissingPersonList.jsp)**  
-  New Jersey State Police missing persons list and search database
-
-- **[Missing NPF](https://missingnpf.com/)**  
-  America's first comprehensive national park missing persons database
