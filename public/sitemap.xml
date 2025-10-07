@@ -8,6 +8,8 @@
   </url><url>
     <loc>http://localhost:1313/countries/austria/</loc>
   </url><url>
+    <loc>http://localhost:1313/countries/brazil/</loc>
+  </url><url>
     <loc>http://localhost:1313/countries/canada/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -45,6 +47,8 @@
     <loc>http://localhost:1313/countries/switzerland/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/countries/turkey/</loc>
   </url><url>
     <loc>http://localhost:1313/countries/united-kingdom/</loc>
   </url><url>

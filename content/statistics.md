@@ -10,8 +10,8 @@ The map provides a visual overview of my database's geographical coverage, helpi
 
 ## Database Overview
 
-- **Total Countries with Resources:** 19
-- **Total Resources Listed:** 82 websites and databases
+- **Total Countries with Resources:** 21
+- **Total Resources Listed:** 87 websites and databases
 - **Geographical Coverage:** Europe, North America, Oceania, Asia, and Africa
 
 ### Featured Countries
@@ -39,7 +39,7 @@ var countriesWithResources = [
     "Australia", "Austria", "Brazil", "Canada", "France", "Germany", 
     "China", "Ireland", "Italy", "Netherlands", "New Zealand", "Poland", 
     "Portugal", "Romania", "South Africa", "Spain", "Switzerland", 
-    "United Kingdom", "United States of America"
+    "Turkey", "United Kingdom", "United States of America"
 ];
 
 // Resource counts for tooltips - map from GeoJSON names to our display names
@@ -56,10 +56,12 @@ var resourceCounts = {
     "Netherlands": 2,
     "New Zealand": 1,
     "Poland": 1,
+    "Portugal": 1,
     "Romania": 1,
     "South Africa": 1,
     "Spain": 2,
     "Switzerland": 7,
+    "Turkey": 1,
     "United Kingdom": 4,
     "United States of America": 14
 };
@@ -82,6 +84,7 @@ var displayNames = {
     "South Africa": "South Africa",
     "Spain": "Spain",
     "Switzerland": "Switzerland",
+    "Turkey": "Turkey",
     "United Kingdom": "United Kingdom",
     "United States of America": "United States"
 };
