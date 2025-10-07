@@ -254,9 +254,9 @@ sections:
         description: "Lucerne canton police missing persons database for older cases"
   - title: "International"
     links:
-      - name: "Interpol Missing Persons"
-        url: "https://www.interpol.int/en/How-we-work/Notices/Red-Notices"
-        description: "International criminal police organization notices"
+      - name: "Interpol Identify Me"
+        url: "https://www.interpol.int/What-you-can-do/Identify-Me"
+        description: "Interpol's database to help identify unknown persons and reunite families"
       - name: "ICMEC"
         url: "https://www.icmec.org"
         description: "International Centre for Missing & Exploited Children"

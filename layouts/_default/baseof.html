@@ -6,18 +6,6 @@
     <meta name="description" content="{{ .Site.Params.description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="{{ .Permalink }}">
-    <meta property="og:title" content="{{ .Title }}">
-    <meta property="og:description" content="{{ .Summary | default .Site.Params.description }}">
-    <meta property="og:image" content="/favicon.svg">
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="{{ .Permalink }}">
-    <meta property="twitter:title" content="{{ .Title }}">
-    <meta property="twitter:description" content="{{ .Summary | default .Site.Params.description }}">
-    <meta property="twitter:image" content="/favicon.svg">
     <style>
         :root {
             --primary-color: #007bff;
@@ -166,11 +154,6 @@
     <footer>
         <p>&copy; {{ now.Format "2006" }} {{ .Site.Params.author }}. All rights reserved.</p>
         <p><a href="/about/">About</a> | <a href="/countries/">Countries</a> | <a href="/statistics/">Coverage Map</a> | <a href="https://github.com/LinaYorda/missing-persons-resources" target="_blank">Source Code</a></p>
-        <p>
-            <a href="https://twitter.com/intent/tweet?text={{ urlquery .Title }}&url={{ .Permalink }}" target="_blank" style="color: #1da1f2; margin: 0 8px;">Share on Twitter</a>
-            <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" style="color: #1877f2; margin: 0 8px;">Share on Facebook</a>
-            <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink }}" target="_blank" style="color: #0077b5; margin: 0 8px;">Share on LinkedIn</a>
-        </p>
     </footer>
 </body>
 </html>

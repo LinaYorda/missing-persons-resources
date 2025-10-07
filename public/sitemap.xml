@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/social-feed/</loc>
-  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/countries/australia/</loc>
@@ -41,6 +39,8 @@
     <loc>http://localhost:1313/countries/portugal/</loc>
   </url><url>
     <loc>http://localhost:1313/countries/romania/</loc>
+  </url><url>
+    <loc>http://localhost:1313/social-feed/</loc>
   </url><url>
     <loc>http://localhost:1313/countries/south-africa/</loc>
   </url><url>

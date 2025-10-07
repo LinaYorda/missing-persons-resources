@@ -10,8 +10,8 @@ The map provides a visual overview of my database's geographical coverage, helpi
 
 ## Database Overview
 
-- **Total Countries with Resources:** 21
-- **Total Resources Listed:** 87 websites and databases
+- **Total Countries with Resources:** 20
+- **Total Resources Listed:** 83 websites and databases
 - **Geographical Coverage:** Europe, North America, Oceania, Asia, and Africa
 
 ### Featured Countries
@@ -37,7 +37,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // Countries with resources (highlight in green) - using GeoJSON country names
 var countriesWithResources = [
     "Australia", "Austria", "Brazil", "Canada", "France", "Germany", 
-    "China", "Ireland", "Italy", "Netherlands", "New Zealand", "Poland", 
+    "Hong Kong", "Ireland", "Italy", "Netherlands", "New Zealand", "Poland", 
     "Portugal", "Romania", "South Africa", "Spain", "Switzerland", 
     "Turkey", "United Kingdom", "United States of America"
 ];
@@ -50,7 +50,7 @@ var resourceCounts = {
     "Canada": 10,
     "France": 3,
     "Germany": 17,
-    "China": 1, // Hong Kong
+    "Hong Kong": 1,
     "Ireland": 1,
     "Italy": 2,
     "Netherlands": 2,
@@ -74,12 +74,13 @@ var displayNames = {
     "Canada": "Canada",
     "France": "France",
     "Germany": "Germany",
-    "China": "Hong Kong",
+    "Hong Kong": "Hong Kong",
     "Ireland": "Ireland",
     "Italy": "Italy",
     "Netherlands": "Netherlands",
     "New Zealand": "New Zealand",
     "Poland": "Poland",
+    "Portugal": "Portugal",
     "Romania": "Romania",
     "South Africa": "South Africa",
     "Spain": "Spain",
