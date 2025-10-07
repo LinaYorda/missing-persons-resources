@@ -1,5 +1,5 @@
 ---
-title: "Missing Persons Resources"
+title: "Help Missing"
 sections:
   - title: "United States"
     links:
@@ -265,4 +265,4 @@ sections:
         description: "International Commission on Missing Persons database for conflict, disaster, and human rights cases"
 ---
 
-Welcome to the Missing Persons Resources, a curated collection of missing persons resources and organizations from around the world that I've gathered through research. Browse by country below to find official databases, police resources, and support organizations that can help locate missing individuals.
+Welcome to Help Missing, a curated collection of missing persons resources and organizations from around the world that I've gathered through research. Browse by country below to find official databases, police resources, and support organizations that can help locate missing individuals.

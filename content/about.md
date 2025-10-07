@@ -4,9 +4,9 @@ title: "About"
 
 Hello!
 
-I'm Tsvetelina, and I've been involved in missing persons work for quite some time. I'm passionate about helping others and raising awareness about missing persons cases. I noticed there wasn't a centralized portal where people could easily find information about government and non-government agencies that handle missing persons cases. That's why I'm creating resources to help families and investigators access the information they need.
+I'm Tsvetelina, and I've been involved in missing persons work for quite some time. I'm passionate about helping others and raising awareness about missing persons cases. I noticed there wasn't a centralized portal for finding information on agencies handling these cases, so I'm creating this directory to help families and investigators access the resources they need.
 
-This website serves as a comprehensive directory of missing persons databases and organizations from around the world. My goal is to provide easy access to resources that can help locate missing individuals and support families in their search.
+This website serves as a directory of missing persons databases and organizations from around the world, providing easy access to tools that can help locate missing individuals and support families in their search.
 
 ## How to Use This Site
 

@@ -1,10 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Missing Persons Resources'
+title = 'Help Missing'
 
 [params]
-  description = "A comprehensive directory of missing persons databases and organizations around the world"
-  author = "Missing Persons Resources"
+  description = "A directory of missing persons databases and organizations worldwide"
+  author = "Help Missing"
 
 [markup.goldmark.renderer]
   unsafe = true

@@ -15,7 +15,7 @@ The map provides a visual overview of my database's geographical coverage, helpi
 - **Geographical Coverage:** Europe, North America, Oceania, Asia, and Africa
 
 ### Featured Countries
-My database includes comprehensive coverage for major countries like Germany (17 resources), United States (14 resources), and Canada (10 resources), as well as emerging coverage in countries across multiple continents.
+My database includes coverage for major countries like Germany (17 resources), United States (14 resources), and Canada (10 resources), as well as emerging coverage in countries across multiple continents.
 
 *Click on any country to see available resources and get more information.*
 
