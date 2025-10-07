@@ -30,3 +30,8 @@ ignoreLogs = ['warning-goldmark-raw-html']
   name = "Coverage Map"
   url = "/statistics/"
   weight = 4
+
+[[menu.main]]
+  name = "Social Feed"
+  url = "/social-feed/"
+  weight = 5

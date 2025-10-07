@@ -61,7 +61,7 @@
       <link>http://localhost:1313/statistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/statistics/</guid>
-      <description>&lt;p&gt;This interactive world map shows all countries where I have collected missing persons resources and information. Countries highlighted in &lt;strong&gt;green&lt;/strong&gt; have available resources in my database, while countries in &lt;strong&gt;gray&lt;/strong&gt; currently have no listed resources.&lt;/p&gt;&#xA;&lt;p&gt;The map provides a visual overview of my database&amp;rsquo;s geographical coverage, helping users quickly identify which countries have missing persons support services available.&lt;/p&gt;&#xA;&lt;div id=&#34;coverage-map&#34; style=&#34;height: 600px; width: 100%; border: 1px solid #ccc; border-radius: 8px; margin: 20px 0;&#34;&gt;&lt;/div&gt;&#xA;&lt;h2 id=&#34;database-overview&#34;&gt;Database Overview&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Total Countries with Resources:&lt;/strong&gt; 21&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Total Resources Listed:&lt;/strong&gt; 83 websites and databases&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Geographical Coverage:&lt;/strong&gt; Europe, North America, Oceania, Asia, and Africa&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;featured-countries&#34;&gt;Featured Countries&lt;/h3&gt;&#xA;&lt;p&gt;My database includes comprehensive coverage for major countries like Germany (17 resources), United States (14 resources), and Canada (10 resources), as well as emerging coverage in countries across multiple continents.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This interactive world map shows all countries where I have collected missing persons resources and information. Countries highlighted in &lt;strong&gt;green&lt;/strong&gt; have available resources in my database, while countries in &lt;strong&gt;gray&lt;/strong&gt; currently have no listed resources.&lt;/p&gt;&#xA;&lt;p&gt;The map provides a visual overview of my database&amp;rsquo;s geographical coverage, helping users quickly identify which countries have missing persons support services available.&lt;/p&gt;&#xA;&lt;div id=&#34;coverage-map&#34; style=&#34;height: 600px; width: 100%; border: 1px solid #ccc; border-radius: 8px; margin: 20px 0;&#34;&gt;&lt;/div&gt;&#xA;&lt;h2 id=&#34;database-overview&#34;&gt;Database Overview&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Total Countries with Resources:&lt;/strong&gt; 21&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Total Resources Listed:&lt;/strong&gt; 87 websites and databases&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Geographical Coverage:&lt;/strong&gt; Europe, North America, Oceania, Asia, and Africa&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;featured-countries&#34;&gt;Featured Countries&lt;/h3&gt;&#xA;&lt;p&gt;My database includes comprehensive coverage for major countries like Germany (17 resources), United States (14 resources), and Canada (10 resources), as well as emerging coverage in countries across multiple continents.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hong Kong</title>
@@ -118,6 +118,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/countries/romania/</guid>
       <description>&lt;h1 id=&#34;missing-persons-resources-in-romania&#34;&gt;Missing Persons Resources in Romania&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://politiaromana.ro/en/missing-persons&#34;&gt;Romanian Police Missing Persons&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Romanian Police missing persons database and information&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Social Feed</title>
+      <link>http://localhost:1313/social-feed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/social-feed/</guid>
+      <description>&lt;h1 id=&#34;social-feed&#34;&gt;Social Feed&lt;/h1&gt;&#xA;&lt;p&gt;Stay updated with the latest developments in missing persons cases and related news.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;twitter-timeline&#34; href=&#34;https://twitter.com/missingpeople?ref_src=twsrc%5Etfw&#34;&gt;Tweets by missingpeople&lt;/a&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>South Africa</title>
