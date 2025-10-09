@@ -34,6 +34,15 @@ resources:
   - name: "New York State Police Missing Persons"
     url: "https://troopers.ny.gov/wanted-and-missing"
     description: "New York missing persons information"
+  - name: "Black and Missing Foundation"
+    url: "https://www.blackandmissinginc.com/search/"
+    description: "Foundation focused on missing persons of color and underrepresented communities"
+  - name: "Missing NPF"
+    url: "https://missingnpf.com/"
+    description: "America's first comprehensive national park missing persons database"
+  - name: "New Mexico Department of Public Safety Missing Persons"
+    url: "http://missingpersons.dps.state.nm.us/mpweb/mpstate_serv"
+    description: "Official New Mexico missing persons database with search and reporting capabilities"
 ---
 
 # Missing Persons Resources in the United States
@@ -67,3 +76,12 @@ resources:
 
 - **[New York State Police Missing Persons](https://troopers.ny.gov/wanted-and-missing)**  
   New York missing persons information
+
+- **[Black and Missing Foundation](https://www.blackandmissinginc.com/search/)**  
+  Foundation focused on missing persons of color and underrepresented communities
+
+- **[Missing NPF](https://missingnpf.com/)**  
+  America's first comprehensive national park missing persons database
+
+- **[New Mexico Department of Public Safety Missing Persons](http://missingpersons.dps.state.nm.us/mpweb/mpstate_serv)**  
+  Official New Mexico missing persons database with search and reporting capabilities

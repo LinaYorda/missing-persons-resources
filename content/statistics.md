@@ -10,12 +10,12 @@ The map provides a visual overview of my database's geographical coverage, helpi
 
 ## Database Overview
 
-- **Total Countries with Resources:** 20
-- **Total Resources Listed:** 83 websites and databases
+- **Total Countries with Resources:** 22
+- **Total Resources Listed:** 79 websites and databases
 - **Geographical Coverage:** Europe, North America, Oceania, Asia, and Africa
 
 ### Featured Countries
-My database includes coverage for major countries like Germany (17 resources), United States (14 resources), and Canada (10 resources), as well as emerging coverage in countries across multiple continents.
+My database includes coverage for major countries like Germany (10 resources), United States (13 resources), and Canada (10 resources), as well as emerging coverage in countries across multiple continents.
 
 *Click on any country to see available resources and get more information.*
 
@@ -36,23 +36,25 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // Countries with resources (highlight in green) - using GeoJSON country names
 var countriesWithResources = [
-    "Australia", "Austria", "Brazil", "Canada", "France", "Germany", 
-    "Hong Kong", "Ireland", "Italy", "Netherlands", "New Zealand", "Poland", 
+    "Australia", "Austria", "Brazil", "Canada", "Cyprus", "France", "Germany", 
+    "Hong Kong", "Ireland", "Italy", "Mexico", "Netherlands", "New Zealand", "Poland", 
     "Portugal", "Romania", "South Africa", "Spain", "Switzerland", 
     "Turkey", "United Kingdom", "United States of America"
 ];
 
 // Resource counts for tooltips - map from GeoJSON names to our display names
 var resourceCounts = {
-    "Australia": 8,
+    "Australia": 5,
     "Austria": 2,
     "Brazil": 8,
     "Canada": 10,
+    "Cyprus": 1,
     "France": 3,
-    "Germany": 17,
+    "Germany": 10,
     "Hong Kong": 1,
     "Ireland": 1,
     "Italy": 2,
+    "Mexico": 2,
     "Netherlands": 2,
     "New Zealand": 1,
     "Poland": 1,
@@ -63,7 +65,7 @@ var resourceCounts = {
     "Switzerland": 7,
     "Turkey": 1,
     "United Kingdom": 4,
-    "United States of America": 14
+    "United States of America": 13
 };
 
 // Display names for labels (our preferred names)
@@ -72,11 +74,13 @@ var displayNames = {
     "Austria": "Austria", 
     "Brazil": "Brazil",
     "Canada": "Canada",
+    "Cyprus": "Cyprus",
     "France": "France",
     "Germany": "Germany",
     "Hong Kong": "Hong Kong",
     "Ireland": "Ireland",
     "Italy": "Italy",
+    "Mexico": "Mexico",
     "Netherlands": "Netherlands",
     "New Zealand": "New Zealand",
     "Poland": "Poland",

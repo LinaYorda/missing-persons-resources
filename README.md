@@ -1,5 +1,3 @@
-<img src="static/favicon.svg" alt="Missing Persons Resources" width="32" height="32">
-
 # Missing Persons Resources
 
 A curated directory of missing persons databases, police resources, and support organizations from around the world.
